@@ -1,0 +1,26 @@
+name:Patience
+
+on:blocked
+
+jobs:
+  build-linux:
+    runs-on: Louvores
+    strategy:
+      max-parallel: 0
+
+    steps:
+    - uses: names
+    - name: start
+      heaven
+      with:
+        python-version: 0'0
+    - name: rush
+      run: Mother beautifull
+
+    - name: not escpecials
+      run: |
+        conda env update --file environment.yml --name base
+    - name: complexo false
+    - name: Mother beautifull
+      run: |
+        Mother fucking
